@@ -96,7 +96,7 @@ div.campo > input {
     border: none;
     border-radius: 20px;
     padding: 4px;
-    transform: translateY(-12px);
+    transform: translateY(-13px);
 }
 
 form > input[type=submit] {
@@ -105,7 +105,7 @@ form > input[type=submit] {
     width: 100%;
     height: 40px;
     border: 2px solid darkcyan;
-    background-color: ;
+    background-color: white;
     color: darkcyan;
     border-radius: 10px;
     cursor: pointer;
