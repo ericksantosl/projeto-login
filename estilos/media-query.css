@@ -76,4 +76,8 @@
         width: 300px;
         margin: auto;
     }
+    
+    div.campo > input {
+        transform: translateY(-11px);
+    }
 }
